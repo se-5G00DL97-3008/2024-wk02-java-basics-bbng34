@@ -15,5 +15,5 @@ class E03 {
             }
 
             scanner.close();
-    }   
+    }
 }
