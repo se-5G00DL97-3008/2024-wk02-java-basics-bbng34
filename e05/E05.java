@@ -26,7 +26,7 @@ class E05 {
                 case 5:
                 System.err.println(days[4]);
                     break;
-                case 6: 
+                case 6:
                 System.out.println(days[5]);
                     break;
                 case 7:

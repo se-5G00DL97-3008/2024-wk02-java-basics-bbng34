@@ -10,7 +10,5 @@ class E06 {
         for (int i=0;i<11;i++) {
             System.err.println(i + " x " + num +" = " + (i*num));
         }
-
-
     }
 }

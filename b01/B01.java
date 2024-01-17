@@ -1,7 +1,6 @@
 class B01 {
     public static void main(String[] args) {
         int num = 99;
-
         for (int i = num; i >= 1; i--) {
             if (i != 1) {
                 System.out.println(i + " bottles of beer on the wall, " + i + " bottles of beer.");
